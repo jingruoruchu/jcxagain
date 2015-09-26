@@ -1,0 +1,9 @@
+D:\study\项目代码\test\test\bin\Debug\test.exe
+D:\study\项目代码\test\test\bin\Debug\test.pdb
+D:\study\项目代码\test\test\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\study\项目代码\test\test\obj\x86\Debug\test.Form1.resources
+D:\study\项目代码\test\test\obj\x86\Debug\test.Properties.Resources.resources
+D:\study\项目代码\test\test\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\study\项目代码\test\test\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\study\项目代码\test\test\obj\x86\Debug\test.exe
+D:\study\项目代码\test\test\obj\x86\Debug\test.pdb
